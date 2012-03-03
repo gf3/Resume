@@ -36,11 +36,11 @@ EXPERIENCE
 
 * GigPark Inc., 2007 – 2009, Developer & Designer in Toronto
 
-  At GigPark I had the opportunity to work at a startup with some extremely talented people. I contributed to and worked on every level of the web application stack. Using BDD techniques, we worked iteratively taking advantage of test-driven coding practices.
+  Full-stack iterative BDD in a results-focused startup culture.
 
 * Area 50 Inc., 2007 – 2007, Developer & Designer in Burlington
 
-  As part of both the development and design teams, I helped build web-based solutions and e-learning training portals for high-profile companies such as Labatt’s Canada, Bell Canada, and Leon’s.
+  E-learning training portals for high-profile companies such as Labatt’s Canada, Bell Canada, and Leon’s.
 
 
 INTERESTS
